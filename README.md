@@ -7,19 +7,24 @@
 # Matériels utilisés
 
 >* [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3) :
+
 ![Arduino](https://store-cdn.arduino.cc/uni/catalog/product/cache/1/image/520x330/604a3538c15e081937dbfbd20aa60aad/a/0/a000066_featured_1_.jpg)
 
 >* [Ecran LCD 16x22](https://www.cdiscount.com/bricolage/electricite/1x-ecran-lcd-pour-arduino-retroeclairage-jaune-com/f-1661416-auc3327901526918.html?cid=search_pla&cm_mmc=PLA!COR!AUT!MP!287498165!bing&msclkid=0748671133ca14e48a803b40f8a5ed15) :
+
 ![LCD](https://i2.cdscdn.com/pdt2/9/1/8/1/550x550/auc3327901526918/rw/1x-ecran-lcd-pour-arduino-retroeclairage-jaune-com.jpg)
 
 >* [Horloge RTC DS3231](https://www.amazon.fr/WINGONEER-minuscule-AT24C32-pr%C3%A9cision-Horloge/dp/B01H5NAFUY/ref=sr_1_4?s=electronics&ie=UTF8&qid=1548864518&sr=1-4&keywords=Horloge+RTC+%28DS3231) : 
+
 ![RTC](https://images-na.ssl-images-amazon.com/images/I/61DjGrZ%2ByLL._SL1100_.jpg)
 
 >* [Capteur de témpérature DHT11](https://www.amazon.fr/DHT11-num%C3%A9rique-capteur-temp%C3%A9rature-humidit%C3%A9-Raspberry/dp/B01N1EYTUN/ref=sr_1_2?s=electronics&ie=UTF8&qid=1548864606&sr=1-2&keywords=Capteur+de+t%C3%A9mp%C3%A9rature+%28DHT11%29) :
-![RTC](https://images-na.ssl-images-amazon.com/images/I/61GHnECJpzL._SL1174_.jpg)
+
+![DHT11](https://images-na.ssl-images-amazon.com/images/I/61GHnECJpzL._SL1174_.jpg)
 
 
 >* [Potentiomètre](https://www.amazon.fr/Aerzetix-Potentiom%C3%A8tre-Lin%C3%A9aire-%C3%986mmx4-5mm-9-8x11x6-8mm/dp/B01N4X4YRX/ref=sr_1_19?s=electronics&ie=UTF8&qid=1548864727&sr=1-19&keywords=potentiom%C3%A8tre+arduino) :
+
 ![Potentimetre](https://images-na.ssl-images-amazon.com/images/I/51CEtKOoBML._SL1016_.jpg)
 
 
