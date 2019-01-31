@@ -4,6 +4,8 @@
 [![video](https://img.youtube.com/vi/wMibktFO9a8/0.jpg)](https://www.youtube.com/watch?v=wMibktFO9a8)
 
 
+
+
 # Matériels utilisés
 
 >* [Arduino Uno](https://store.arduino.cc/arduino-uno-rev3) :
@@ -30,6 +32,10 @@
 
 >* **Résistances 2k**
 
+# **Branchements**
+
+
+![Schéma](https://image.noelshack.com/fichiers/2019/05/4/1548924293-shema-station-meteo-bb.png)
 
 
 # Bibliothèques utilisées
